@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+
+# IDE
+.idea/
+.vscode/
+
+# ROS
+build/
+install/
+log/
+
+# Omniverse
+*.etli
+.thumbs/
